@@ -1,0 +1,64 @@
+body {
+	/*   background-color: rgba(216, 241, 242); */
+	font-family: Verdana;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	text-align: center;
+	color: rgb(71, 95, 95);
+}
+
+main {
+	/*   max-width: 60%; */
+	margin: 0 20px;
+	padding: 20px 5px;
+	background-color: #2869ae;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 1.5rem;
+	color: #ffffff;
+}
+
+.app {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#numberInput,
+#checkBtn {
+	line-height: 2.5rem;
+	font-size: 1rem;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+	padding: 5px;
+	border: none;
+}
+
+#checkBtn:hover {
+	color: #ffffff;
+	border: 1px solid #ffffff;
+}
+
+#numberInput {
+	background-color: #ffffff;
+}
+
+#displayInfo {
+	max-width: max-content;
+	margin: 20px auto;
+	padding: 5px;
+	color: red;
+	font-size: 1rem;
+	font-weight: 700;
+	background-color: #ffffff;
+}
+
+footer {
+	margin-top: 3%;
+	text-align: center;
+}
