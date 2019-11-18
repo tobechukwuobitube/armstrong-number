@@ -9,5 +9,5 @@ Armstrong number is a number that is equal to the sum of cubes of its digits. Fo
 
 
 ### Link to the Application
-armstrong-number.surge.sh
+http://armstrong-number.surge.sh
 
